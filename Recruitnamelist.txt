@@ -1,0 +1,3 @@
+LIST OF RECRUITMENT COMPANIES GOES HERE
+
+(Use functions indeedfind & reedfind within main.py to scr)
